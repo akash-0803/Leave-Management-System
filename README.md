@@ -49,16 +49,6 @@ Copy code
 python manage.py runserver
 Open your browser and visit: http://127.0.0.1:8000
 
-Screenshots
-Login Page
-(Add a screenshot of the login page here)
-
-Admin Dashboard
-(Add a screenshot of the admin dashboard here)
-
-Leave Request Page
-(Add a screenshot of the leave request page here)
-
 Project Structure
 plaintext
 Copy code
